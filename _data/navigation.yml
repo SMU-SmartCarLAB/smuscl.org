@@ -7,3 +7,5 @@ main:
     url: /members/
   - title: "加入我们"
     url: /join/
+  - title: "联系我们"
+    url: /contact/

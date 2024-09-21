@@ -1,6 +1,13 @@
 ---
 title: "成员"
-layout: posts
 permalink: /members/
-author_profile: false
+classes: wide
+layout: single
 ---
+&ensp;&ensp;上海海事大学智能车实验室凭借着良好的培养资源和注重工程学实践的培养方式，培养了一批又一批优秀的成员。<br>
+## 2023级
+## 2022级
+## 2021级
+## 2020级
+
+&ensp;&ensp;受限于本网站建立时间，并未能够列出上海海事大学智能车实验室自建立以来的全部成员，若您是已经毕业的优秀成员，请联系我们。
