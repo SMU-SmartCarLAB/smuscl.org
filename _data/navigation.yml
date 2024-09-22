@@ -9,3 +9,15 @@ main:
     url: /join/
   - title: "联系我们"
     url: /contact/
+
+docs:
+  - title: "导航"
+    children:
+      - title: "关于我们"
+        url: /about/
+      - title: "活动"
+        url: /posts/
+      - title: "加入我们"
+        url: /join/
+      - title: "联系我们"
+        url: /contact/

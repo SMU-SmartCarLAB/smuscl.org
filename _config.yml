@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 上海海事大学智能车实验室
-logo: "/assets/images/smartcar_logoB.png"
+logo: "/assets/images/smartcar_logo.png"
 email:
 #description: >- # this means to ignore newlines until "baseurl:"
 
@@ -94,7 +94,9 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+    values:      
+      sidebar:
+        nav: "docs"
       layout: single
       author_profile: false
       read_time: true
@@ -106,8 +108,11 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      sidebar:
+        nav: "docs"
       layout: wide
       author_profile: false
+
 
 category_archive:
   type: liquid
@@ -118,4 +123,5 @@ tag_archive:
 
 lunr:
   search_within_pages: true
+
 

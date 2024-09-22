@@ -21,7 +21,7 @@ feature_row_left:
     btn_class: "btn--primary"
   - image_path: /assets/images/upcoming_events.jpg
     title: "活动"
-    excerpt: "upcoming Events"
+    excerpt: "Upcoming Events"
     url: /posts/
     btn_label: "Read More"
     btn_class: "btn--primary"
