@@ -7,4 +7,4 @@ layout: single
 #### 常用文件下载
 [上海海事大学智能车实验室设备借用申请表][link1] <br>
 
-[link1]:http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=sii_BPPOQo-jCd0kfAE0IkyNxGe4Hhi1&authKey=hBYugn9iFp8vlvmd%2B62ZMEcN0gIWFmP4S7e%2BFDouc%2FMoD6%2Bks0W%2B6jSAJic52adX&noverify=0&group_code=337582573
+[link1]:https://github.com/asderv22/asderv22.github.io/raw/master/assets/files/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E4%BA%8B%E5%A4%A7%E5%AD%A6%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%AE%BE%E5%A4%87%E5%80%9F%E7%94%A8%E7%94%B3%E8%AF%B7%E8%A1%A8.pdf
