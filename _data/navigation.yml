@@ -9,6 +9,8 @@ main:
     url: /join/
   - title: "联系我们"
     url: /contact/
+  - title: "文件下载"
+    url: /download/
 
 docs:
   - title: "导航"
@@ -21,3 +23,5 @@ docs:
         url: /join/
       - title: "联系我们"
         url: /contact/
+      - title: "文件下载"
+        url: /download/
