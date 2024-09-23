@@ -6,6 +6,10 @@ layout: single
 ---
 &ensp;&ensp;上海海事大学智能车实验室凭借着良好的培养资源和注重工程学实践的培养方式，培养了一批又一批优秀的成员。<br>
 ## 2023级
+### 赵梦仙
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/ZMX.jpg)
+##### 专业：电子信息工程
+掌握电子打火机制造工艺，获得2024年全国大学生电子设计大赛最能喷烟组上海市一等奖，电源攻城狮，PCB攻城狮，研究方向:功率电子，数字电源，单相/三相逆变器，单相图腾柱pfc。contact：zhaomengxian@stu.shmtu.edu.cn
 ## 2022级
 ### 王语凡
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/WYF.jpg)
