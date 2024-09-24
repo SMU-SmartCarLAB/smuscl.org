@@ -12,7 +12,7 @@ link: https://discord.gg/JTWDEUevwD
 接待时间：上午 10 时-下午 21 时 <br>
 #### 交流合作
 联系人: 高 熔琦<br>
-Email：<br>
+Email: gaoro-xiao@foxmail.com
 Tel: <br>
 #### 社团事务
 联系人:  鞠 谨闻<br>
