@@ -12,12 +12,12 @@ link: https://discord.gg/JTWDEUevwD
 接待时间：上午 10 时-下午 21 时 <br>
 #### 交流合作
 联系人: 高 熔琦<br>
-Email: gaoro-xiao@foxmail.com
-Tel: <br>
+Email: gaoro-xiao@foxmail.com<br>
+Tel: (+86)15179250406<br>
 #### 社团事务
-联系人:  鞠 谨闻<br>
-Email：<br>
-Tel:<br>
+联系人:  鞠 瑾闻<br>
+Email: maxwebb@163.com<br>
+Tel: (+86)15618501882<br>
 #### 网站建议
 联系人: 李 则升<br>
 Email: li.zeshe@northeastern.edu<br>
