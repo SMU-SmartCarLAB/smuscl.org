@@ -11,7 +11,7 @@ layout: single
 ### 赵梦仙
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/ZMX.jpg)
 ##### 专业：电子信息工程
-掌握电子打火机制造工艺，获得2024年全国大学生电子设计大赛最能喷烟组上海市一等奖，电源攻城狮，PCB攻城狮，研究方向:功率电子，数字电源，单相/三相逆变器，单相图腾柱pfc。contact：zhaomengxian@stu.shmtu.edu.cn
+掌握电子打火机制造工艺，获得2024年全国大学生电子设计大赛最能喷烟组上海市一等奖，新晋印度电源专家，PCB攻城狮，研究方向:功率电子，数字电源，单相/三相逆变器，单相图腾柱pfc。contact：zhaomengxian@stu.shmtu.edu.cn
 ## 2022级
 ### 王语凡
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/WYF.jpg)
@@ -22,6 +22,10 @@ layout: single
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/CYC.jpg)
 ##### 专业：测控技术与仪器
 广C老表，兼任苹果树工坊苹果王
+### 曾繁旭
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/ZFX.jpg)
+##### 专业：自动化
+不要购买孟凡丁的产品。
 ## 2020级
 <!-- #### 阚一鸣
 ##### 专业：
