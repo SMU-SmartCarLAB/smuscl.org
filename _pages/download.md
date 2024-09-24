@@ -10,5 +10,4 @@ layout: single
 
 [link1]:https://github.com/asderv22/asderv22.github.io/raw/master/assets/files/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E4%BA%8B%E5%A4%A7%E5%AD%A6%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%AE%BE%E5%A4%87%E5%80%9F%E7%94%A8%E7%94%B3%E8%AF%B7%E8%A1%A8.pdf
 
-[link2]:https://github.com/asderv22/asderv22.github.io/raw/master/assets/files/%E4%B8%8A%E6%B5%B7%E6%B5%B7%E4%BA%8B%E5%A4%A7%E5%AD%A6%E6%99%BA%E8%83%BD%E8%BD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%AE%BE%E5%A4%87%E5%80%9F%E7%94%A8%E7%94%B3%E8%AF%B7%E8%A1%A8.pdf
-
+[link2]:https://github.com/asderv22/asderv22.github.io/raw/master/assets/files/%E4%BC%98%E7%A7%80%E6%88%90%E5%91%98%E4%BF%A1%E6%81%AF%E7%99%BB%E5%BD%95.docx
