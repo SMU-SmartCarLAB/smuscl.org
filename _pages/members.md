@@ -29,6 +29,10 @@ layout: single
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/LSK.jpg)
 ##### 专业：测控技术与仪器
 第19届智能车竞赛智能视觉组组员。
+### 冯奕晨
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/FYC.jpg)
+##### 专业：计算机科学与技术
+在这个实验室为数不多的计科学生（，正在学习研究的方向：计算机视觉，计算机图像处理，机器学习，深度学习框架。在团队里主要负责训练各种过拟合模型，部分视觉算法和图像处理。联系方式：1983602369@qq.com
 ## 2021级
 ### 高熔琦
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/GRQ.jpg)
@@ -42,6 +46,10 @@ layout: single
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/ZFX.jpg)
 ##### 专业：自动化
 不要购买孟凡丁的产品。
+### 侯雨硕
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/HYS.jpg)
+##### 专业：机械电子工程
+擅长SolidWorks，Inventor等建模软件（应该抛弃Fushion360，拥抱SW）。熟悉单片机、Linux开发。深度学习加速师，已遁入度门（百度PaddlePaddle）。首席摄影师，新购入长焦镜头，所有焦段已完全覆盖。
 ## 2020级
 ### 阚一鸣
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/KYM.jpg)
