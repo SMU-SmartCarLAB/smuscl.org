@@ -12,7 +12,6 @@ layout: single
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/ZMX.jpg)
 ##### 专业：电子信息工程
 掌握电子打火机制造工艺，获得2024年全国大学生电子设计大赛最能喷烟组上海市一等奖，新晋印度电源专家，PCB攻城狮，研究方向:功率电子，数字电源，单相/三相逆变器，单相图腾柱pfc。contact：zhaomengxian@stu.shmtu.edu.cn
-
 ### 李越江
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/LYJ.jpg)
 ##### 专业：電子資訊工程
@@ -56,6 +55,11 @@ layout: single
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/HYS.jpg)
 ##### 专业：机械电子工程
 擅长SolidWorks，Inventor等建模软件（应该抛弃Fushion360，拥抱SW）。熟悉单片机、Linux开发。深度学习加速师，已遁入度门（百度PaddlePaddle）。首席摄影师，新购入长焦镜头，所有焦段已完全覆盖。
+### 商炜华
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/SWH.jpg)
+##### 专业：电气工程及其自动化
+东百，人际关系学大师(传销头目)，首席BLUE遥控师，擅长机械设计(当黑奴)，智能车人事部部长，兼任上海海事大学电工电子实验中心E^2创智天地~~副~~社长。
+
 ## 2020级
 ### 阚一鸣
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/KYM.jpg)
