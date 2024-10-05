@@ -64,8 +64,8 @@ layout: single
 ### 阚一鸣
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/KYM.jpg)
 ##### 专业：电气工程与智能控制（中外合作）
-##### 毕业去向：同济大学 控制理论与控制工程 硕士研究生
-十八届领队，中共党员，PID专家，室外组别爱好者，政治评论家，对社会变革持有前瞻性见解。
+##### 毕业去向：同济大学 + Technische Universität München 控制理论与控制工程 硕士研究生
+十七&十八届领队，中共党员，PID专家，室外组别爱好者，政治评论家，对社会变革持有前瞻性见解。
 ### 孟凡丁
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/MFD.jpg)
 ##### 专业：船舶与海洋工程
