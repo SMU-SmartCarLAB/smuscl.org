@@ -11,6 +11,8 @@ main:
     url: /contact/
   - title: "文件下载"
     url: /download/
+  - title: "成员博客"
+    url: /blog/
 
 docs:
   - title: "导航"
@@ -27,3 +29,5 @@ docs:
         url: /contact/
       - title: "文件下载"
         url: /download/
+      - title: "成员博客"
+        url: /blog/
