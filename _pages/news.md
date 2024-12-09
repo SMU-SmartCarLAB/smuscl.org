@@ -1,6 +1,8 @@
 ---
 title: "活动"
-permalink: /posts/
+permalink: /news/
 layout: posts
 author_profile: false
+categories:
+  - news
 ---
