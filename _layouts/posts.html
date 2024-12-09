@@ -1,0 +1,24 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<ul class="taxonomy__index">
+  {% assign page_category = page.categories | first %}
+  {% assign allPosts = site.posts | where_exp: "item", "item.hidden != true" %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in allPosts %}
+    {% if post.categories contains page_category %}
+      <section id="{{ post.url }}" class="taxonomy__section">
+        {% include archive-single.html type=entries_layout %}
+      </section>
+    {% endif %}
+  {% endfor %}
+</div>
+  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+

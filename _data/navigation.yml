@@ -2,7 +2,9 @@ main:
   - title: "关于我们"
     url: /about/
   - title: "活动"
-    url: /posts/
+    url: /news/
+  - title: "博客"
+    url: /blogs/
   - title: "成员"
     url: /members/
   - title: "加入我们"
@@ -11,8 +13,7 @@ main:
     url: /contact/
   - title: "文件下载"
     url: /download/
-  - title: "成员博客"
-    url: /blog/
+
 
 docs:
   - title: "导航"
@@ -20,7 +21,9 @@ docs:
       - title: "关于我们"
         url: /about/
       - title: "活动"
-        url: /posts/
+        url: /news/
+      - title: "博客"
+        url: /blogs/
       - title: "成员"
         url: /members/
       - title: "加入我们"
@@ -29,5 +32,4 @@ docs:
         url: /contact/
       - title: "文件下载"
         url: /download/
-      - title: "成员博客"
-        url: /blog/
+
