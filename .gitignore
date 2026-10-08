@@ -2,3 +2,13 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+# Local Codex context and handoff notes
+/AGENTS.md
+/.agents/
+
+# Local Jekyll and Bundler output
+/.jekyll-cache/
+/.bundle/
+/vendor/bundle/
+/vendor/cache/

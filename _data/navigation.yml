@@ -33,3 +33,15 @@ docs:
       - title: "文件下载"
         url: /download/
 
+member_years:
+  - title: "年级"
+    children:
+      - title: "23级"
+        url: /members/#grade-2023
+      - title: "22级"
+        url: /members/#grade-2022
+      - title: "21级"
+        url: /members/#grade-2021
+      - title: "20级"
+        url: /members/#grade-2020
+

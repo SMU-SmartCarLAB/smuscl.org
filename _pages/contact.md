@@ -15,9 +15,9 @@ link: https://discord.gg/JTWDEUevwD
 Email: gaoro-xiao@foxmail.com<br>
 Tel: (+86)15179250406<br>
 #### 社团事务
-联系人:  鞠 瑾闻<br>
-Email: maxwebb@163.com<br>
-Tel: (+86)15618501882<br>
+联系人:  周 柏旭<br>
+Email: 3414697812@qq.com<br>
+Tel: (+86)13939052691<br>
 #### 网站建议
 联系人: 李 则升<br>
 Email: li.zeshe@northeastern.edu<br>

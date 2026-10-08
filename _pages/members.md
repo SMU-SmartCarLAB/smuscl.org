@@ -3,11 +3,16 @@ title: "成员"
 permalink: /members/
 classes: wide
 layout: single
+sidebar:
+  nav:
+    - docs
+    - member_years
 ---
 &ensp;&ensp;上海海事大学智能车实验室凭借着良好的培养资源和注重工程学实践的培养方式，培养了一批又一批优秀的成员。  
 
 &ensp;&ensp;受限于本网站建立时间，并未能够列出上海海事大学智能车实验室自建立以来的全部成员，若您是已经毕业的优秀成员，请[联系我们][link1]<br>
 ## 2023级
+{: #grade-2023 }
 ### 赵梦仙
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/ZMX.jpg)
 ##### 专业：电子信息工程
@@ -18,6 +23,7 @@ layout: single
 省三獲得者😆具有極其一般的硬體和軟體舍技水準，數字IC RTL開發及驗證、射頻通訊學習中。上海海事大學電工電子實驗中心E^2智創天地某種人物，智能車大盜。電郵：[liyuejiang@stu.shmtu.edu.cn](mailto:liyuejiang@stu.shmtu.edu.cn)
 
 ## 2022级
+{: #grade-2022 }
 ### 王语凡
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/WYF.jpg)
 ##### 专业：机械设计制造及其自动化
@@ -39,6 +45,7 @@ layout: single
 ##### 专业：计算机科学与技术
 在这个实验室为数不多的计科学生（，正在学习研究的方向：计算机视觉，计算机图像处理，机器学习，深度学习框架。在团队里主要负责训练各种过拟合模型，部分视觉算法和图像处理。联系方式：1983602369@qq.com
 ## 2021级
+{: #grade-2021 }
 ### 高熔琦
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/GRQ.jpg)
 ##### 专业：电气工程及其自动化
@@ -61,6 +68,7 @@ layout: single
 东百，人际关系学大师(传销头目)，首席BLUE遥控师，擅长机械设计(当黑奴)，智能车人事部部长，兼任上海海事大学电工电子实验中心E^2创智天地~~副~~社长。
 
 ## 2020级
+{: #grade-2020 }
 ### 阚一鸣
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/members/KYM.jpg)
 ##### 专业：电气工程与智能控制（中外合作）
